@@ -48,11 +48,16 @@
     <td><img src="https://cdn.worldvectorlogo.com/logos/cisco-1.svg" alt="cisco" width="40" height="40"/></td>
   </tr>
   <tr>
-    <td><img src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" alt="github pages" width="40" height="40"/></td>
-    <td><img src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" alt="vercel" width="40" height="40"/></td>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Render-logo-icon.png" alt="render" width="40" height="40"/></td>
-    <td><img src="https://seeklogo.com/images/N/netlify-logo-758722CDF4-seeklogo.com.png" alt="netlify" width="40" height="40"/></td>
-  </tr>
+  <td><img src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" alt="github pages" width="40" height="40"/></td>
+  <td><img src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" alt="vercel" width="40" height="40"/></td>
+  <td><img src="https://render.com/images/favicon.png" alt="render" width="40" height="40"/></td>
+  <td><img src="https://www.netlify.com/v3/img/components/netlify-color-accent.svg" alt="netlify" width="40" height="40"/></td>
+</tr>
+<tr>
+  <td><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Windows_Terminal_Logo.svg" alt="windows terminal" width="40" height="40"/></td>
+  <td><img src="https://cdn.iconscout.com/icon/free/png-256/cisco-2752077-2284970.png" alt="cisco" width="40" height="40"/></td>
+</tr>
+
 </table>
 
 
