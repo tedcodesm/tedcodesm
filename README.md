@@ -4,7 +4,6 @@
 
 - 👨‍💻 All of my projects are available at [https://foloio.vercel.app/](https://foloio.vercel.app/)
 
-- 📫 How to reach me: **kaahenjoroge@gmail.com**
 
 
 ---
