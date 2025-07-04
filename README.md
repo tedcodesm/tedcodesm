@@ -8,87 +8,93 @@
 
 ---
 
-<style>
-  .tech-stack {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 1rem;
-    justify-content: center;
-    background: #0f172a; /* Navy dark background */
-    padding: 2rem;
-    border-radius: 1rem;
-  }
+<h3 align="center">🛠 Tech Stack</h3>
 
-  .tech-item {
-    background: #1e293b;
-    color: #fff;
-    width: 120px;
-    height: 120px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    clip-path: polygon(25% 0%, 75% 0%, 100% 50%, 75% 100%, 25% 100%, 0% 50%);
-    transition: transform 0.3s ease, background 0.3s ease;
-  }
+<p align="center">
+  <table align="center">
+    <tr>
+      <td align="center" width="130">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/><br/>JavaScript
+      </td>
+      <td align="center" width="130">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"/><br/>TypeScript
+      </td>
+      <td align="center" width="130">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/><br/>React
+      </td>
+      <td align="center" width="130">
+        <img src="https://reactnative.dev/img/header_logo.svg" width="40"/><br/>React Native
+      </td>
+      <td align="center" width="130">
+        <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40"/><br/>Next.js
+      </td>
+    </tr>
+    
+    <tr>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/><br/>Node.js
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/><br/>Express.js
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/><br/>MongoDB
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/><br/>PostgreSQL
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/><br/>MySQL
+      </td>
+    </tr>
 
-  .tech-item:hover {
-    transform: scale(1.1);
-    background: #334155;
-  }
+    <tr>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/><br/>Python
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/><br/>PHP
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/><br/>Java
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/><br/>C
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40"/><br/>Redis
+      </td>
+    </tr>
 
-  .tech-item img {
-    width: 40px;
-    height: 40px;
-    margin-bottom: 0.5rem;
-  }
+    <tr>
+      <td align="center">
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/><br/>Postman
+      </td>
+      <td align="center">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/><br/>Git
+      </td>
+      <td align="center">
+        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/><br/>Tailwind CSS
+      </td>
+      <td align="center">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" width="40"/><br/>PowerShell
+      </td>
+      <td align="center">
+        <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="40"/><br/>Netlify
+      </td>
+    </tr>
 
-  .tech-item span {
-    font-size: 0.9rem;
-    text-align: center;
-  }
-</style>
+    <tr>
+      <td align="center">
+        <img src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" width="40"/><br/>Vercel
+      </td>
+      <td align="center">
+        <img src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" width="40"/><br/>GitHub Pages
+      </td>
+    </tr>
+  </table>
+</p>
 
-<h3 style="text-align: center; color: white;">🛠 Tech Stack</h3>
-
-<div class="tech-stack">
-  <div class="tech-item">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" />
-    <span>JavaScript</span>
-  </div>
-  <div class="tech-item">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" />
-    <span>TypeScript</span>
-  </div>
-  <div class="tech-item">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" />
-    <span>React</span>
-  </div>
-  <div class="tech-item">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" />
-    <span>React Native</span>
-  </div>
-  <div class="tech-item">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" />
-    <span>Next.js</span>
-  </div>
-  <div class="tech-item">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" />
-    <span>Node.js</span>
-  </div>
-  <div class="tech-item">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" />
-    <span>Express</span>
-  </div>
-  <div class="tech-item">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" />
-    <span>MongoDB</span>
-  </div>
-  <div class="tech-item">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" />
-    <span>Tailwind CSS</span>
-  </div>
-</div>
 
 
 
