@@ -29,7 +29,6 @@
         <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40"/><br/>Next.js
       </td>
     </tr>
-    
     <tr>
       <td align="center">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/><br/>Node.js
@@ -48,7 +47,7 @@
       </td>
     </tr>
 
-    <tr>
+   <tr>
       <td align="center">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/><br/>Python
       </td>
@@ -66,7 +65,7 @@
       </td>
     </tr>
 
-    <tr>
+  <tr>
       <td align="center">
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/><br/>Postman
       </td>
@@ -84,7 +83,7 @@
       </td>
     </tr>
 
-    <tr>
+  <tr>
       <td align="center">
         <img src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" width="40"/><br/>Vercel
       </td>
