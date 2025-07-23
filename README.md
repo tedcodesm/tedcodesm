@@ -45,7 +45,9 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
   <img src="https://img.shields.io/badge/GitHub_Pages-121013?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pages"/>
+  <img src="https://img.shields.io/badge/LLM-4B0082?style=for-the-badge&logo=openai&logoColor=white" alt="LLM"/>
 </p>
+
 
 
 
