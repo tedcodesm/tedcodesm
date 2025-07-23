@@ -1,4 +1,4 @@
-<h3 align="center"> Full-Stack developer with a strong foundation in JavaScript, React, React Native, Node.js, and modern web technologies. I enjoy solving complex problems and building scalable,  efficient applications. Always learning, always building.</h3>
+<h3 align="center"> Full-Stack developer with a strong foundation in JavaScript, React, React Native, Node.js, and modern web technologies. I enjoy solving more complex problems and building scalable,  efficient applications. Always learning, always building.</h3>
 
 - 🌱 I’m currently learning **Python** and exploring the fundamentals of **Machine Learning**. I enjoy solving problems with code and I'm passionate about building real-world projects as I grow my skills.
 
