@@ -56,14 +56,37 @@
 
 ---
 
-<h3>📊 GitHub Stats:</h3>
+## 🚀 GitHub Analytics
 
 <p align="left">
+  <!-- GitHub Stats -->
   <img 
-    src="https://github-readme-stats-git-masterorg.vercel.app/api/top-langs/?username=tedcodesm&layout=compact&theme=tokyonight&card_width=400"
-    alt="tedcodesm"
+    src="https://stats.dooboo.io/api/github-stats-advanced?login=tedcodesm&theme=tokyonight" 
+    height="165"
+  />
+
+  <!-- Top Languages -->
+  <img 
+    src="https://stats.dooboo.io/api/top-langs/?username=tedcodesm&layout=compact&theme=tokyonight" 
+    height="165"
   />
 </p>
+
+<!-- Streak Stats -->
+<p align="left">
+  <img 
+    src="https://streak-stats.demolab.com?user=tedcodesm&theme=tokyonight&border_radius=10" 
+    height="165"
+  />
+</p>
+
+<!-- GitHub Trophies -->
+<p align="left">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=tedcodesm&theme=tokyonight&no-frame=true&column=4" 
+  />
+</p>
+
 
 
 
