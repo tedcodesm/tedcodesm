@@ -60,10 +60,11 @@
 
 <p align="left">
   <img 
-    src="https://stats.dooboo.io/api/top-langs/?username=tedcodesm&layout=compact&theme=tokyonight&card_width=400"
+    src="https://github-readme-stats-git-masterorg.vercel.app/api/top-langs/?username=tedcodesm&layout=compact&theme=tokyonight&card_width=400"
     alt="tedcodesm"
   />
 </p>
+
 
 
 
