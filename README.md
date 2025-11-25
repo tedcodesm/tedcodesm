@@ -58,7 +58,7 @@
 ## 🚀 GitHub Analytics
 
 <!-- Streak Stats (always works) -->
-<p align="left">
+<p>
   <img 
     src="https://streak-stats.demolab.com?user=tedcodesm&theme=tokyonight&border_radius=10" 
     height="165"
