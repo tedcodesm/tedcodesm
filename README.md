@@ -1,33 +1,78 @@
 <p align="center">
 
-```text
 
-                             .-:-=+=++-.
-                          -**%%%%%@@%%%###=.
-                      :=**#%%%%%%%%%%%%%%%@##+:
-                     -*%%%%%%%%%%%%%%%%%%%%%%%%*:
-                   .=%%%%%%@%%%%%%%%%%%%%%%%%%%@%*.
-                 :=#%%%%%%%##******#####%%%%%%%%%%*
-                .=%%%%%%#***++++++++*****##%%%%%%%%+:
-               .=#%%%%%*++++======++++****####%%%%%@@+
-               :#%%%%%*+++==----====+++******##%%%%%%#:
-                *%%%%#+++===========++++*******#%%%%%*-
-                *%%%*+++++===-=---====+++*******#%%%%%=
-               :%%#*==+++--==--=--===-===++**#***#%%%#.
-               .*%*+==++=:-==+=-:-==----====+*****%%%=
-               .*#+====+*+*#*+*-::=+++==+++++++*+*#%%+
-                :#+===++*++%*+*+=+++***#=*%**#*++*#%*.
-                 ++=====-:-=+=======+******++**+++#*
-               =*======-::---:-=====+***+*++++****#=:
-               #*=+====-::::--===---=++++++++++**+**%:
-               -+*+=====-----=+++====+**+++++++++**+#:
-               :+*====+====---===+++*#******+++++*#*+
-                ++++++=====--=====+++**********++*##:
-                .++=+++++++=++++++++*+*********+###=
-                 .. -++++++++*++=+=+++*******+**-==
-                     =++++++==========+******+*-
-                     :+++++++++++****+++++*****.
-                     :+++++++++==+++==+++******.
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 443 570" font-family="'Courier New', Courier, monospace" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTowZDRmZjYyNC1iY2FhLTRmOTItYmEwYS1kYjhjNGYzNTE5ZWQAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaMvuH9KgZ303A7yFqx3GizcAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDpjYzVkOGM4OC0xZWQ4LTQ3MDktYWQ3Ni1mYjdjZDNhZmM0OWJscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoK4x6pxBSFvSlL424HT/1JQAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggW6nalwcIclUezrpiuLUdX/tXOPG0ahiAxFzPJ4TBIOmkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaHsaA3Buqh7NfY+N24IyTHcAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCDSNfNL5vbYb1KqidtUNNQ0nJfAnD1dQNSqtpC9v860S2RuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBitZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjBkNGZmNjI0LWJjYWEtNGY5Mi1iYTBhLWRiOGM0ZjM1MTllZC9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjcwZDRkNzI2LTk5MzctNDc3ZC05NGVjLWM1MWJmYWE5YjBiMXJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCBbqdqXBwhyVR7OumK4tR1f+1c48bRqGIDEXM8nhMEg6aJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFgg0erGjma2Xid9d4UVtaw8oC4AtE6z2GBiYKXcNDxakrWiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggtewh2nYFmoG4+hMQWrBvil5k4yWjaCIpbbFeMXLt6Ft0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQPC/mz7rc5z88RkebD8+miUP4wQfkxGDKf3zxOheawW2hw//2sSMynXSvxzJZITty1pf9noiTBe6YOIQrib/+vA=</c2pa:manifest></metadata>
+  <defs>
+    <style>
+      .bg { fill: #0d1117; }
+      .frame { fill: none; stroke: #30363d; stroke-width: 2; }
+      .titlebar { fill: #161b22; }
+      .label { fill: #8b949e; font-size: 12px; letter-spacing: 1px; }
+      .ascii { fill: #39d353; font-size: 11px; }
+      .glow { filter: drop-shadow(0 0 2px #39d353aa); }
+    </style>
+  </defs>
+
+  <rect class="bg" x="0" y="0" width="443" height="570" rx="10"/>
+  <rect class="frame" x="4" y="4" width="435" height="562" rx="10"/>
+
+  <rect class="titlebar" x="4" y="4" width="435" height="34" rx="10"/>
+  <circle cx="28" cy="21" r="6" fill="#ff5f56"/>
+  <circle cx="50" cy="21" r="6" fill="#ffbd2e"/>
+  <circle cx="72" cy="21" r="6" fill="#27c93f"/>
+  <text x="221.5" y="26" text-anchor="middle" class="label">portrait.ascii — zsh</text>
+
+  <!-- sweeping scanline -->
+  <rect x="4" y="40" width="435" height="14" fill="#39d35322">
+    <animate attributeName="y" values="40;530;40" dur="6s" repeatCount="indefinite"/>
+  </rect>
+
+  <g class="ascii glow" transform="translate(40,80)">
+    <text>
+      <tspan x="0" dy="0" xml:space="preserve">                             .-:-=+=++-.</tspan>
+      <tspan x="0" dy="15" xml:space="preserve">                          -**%%%%%@@%%%###=.</tspan>
+      <tspan x="0" dy="15" xml:space="preserve">                      :=**#%%%%%%%%%%%%%%%@##+:</tspan>
+      <tspan x="0" dy="15" xml:space="preserve">                     -*%%%%%%%%%%%%%%%%%%%%%%%%*:</tspan>
+      <tspan x="0" dy="15" xml:space="preserve">                   .=%%%%%%@%%%%%%%%%%%%%%%%%%%@%*.</tspan>
+      <tspan x="0" dy="15" xml:space="preserve">                 :=#%%%%%%%##******#####%%%%%%%%%%*</tspan>
+      <tspan x="0" dy="15" xml:space="preserve">                .=%%%%%%#***++++++++*****##%%%%%%%%+:</tspan>
+      <tspan x="0" dy="15" xml:space="preserve">               .=#%%%%%*++++======++++****####%%%%%@@+</tspan>
+      <tspan x="0" dy="15" xml:space="preserve">               :#%%%%%*+++==----====+++******##%%%%%%#:</tspan>
+      <tspan x="0" dy="15" xml:space="preserve">                *%%%%#+++===========++++*******#%%%%%*-</tspan>
+      <tspan x="0" dy="15" xml:space="preserve">                *%%%*+++++===-=---====+++*******#%%%%%=</tspan>
+      <tspan x="0" dy="15" xml:space="preserve">               :%%#*==+++--==--=--===-===++**#***#%%%#.</tspan>
+      <tspan x="0" dy="15" xml:space="preserve">               .*%*+==++=:-==+=-:-==----====+*****%%%=</tspan>
+      <tspan x="0" dy="15" xml:space="preserve">               .*#+====+*+*#*+*-::=+++==+++++++*+*#%%+</tspan>
+      <tspan x="0" dy="15" xml:space="preserve">                :#+===++*++%*+*+=+++***#=*%**#*++*#%*.</tspan>
+      <tspan x="0" dy="15" xml:space="preserve">                 ++=====-:-=+=======+******++**+++#*</tspan>
+      <tspan x="0" dy="15" xml:space="preserve">               =*======-::---:-=====+***+*++++****#=:</tspan>
+      <tspan x="0" dy="15" xml:space="preserve">               #*=+====-::::--===---=++++++++++**+**%:</tspan>
+      <tspan x="0" dy="15" xml:space="preserve">               -+*+=====-----=+++====+**+++++++++**+#:</tspan>
+      <tspan x="0" dy="15" xml:space="preserve">               :+*====+====---===+++*#******+++++*#*+</tspan>
+      <tspan x="0" dy="15" xml:space="preserve">                ++++++=====--=====+++**********++*##:</tspan>
+      <tspan x="0" dy="15" xml:space="preserve">                .++=+++++++=++++++++*+*********+###=</tspan>
+      <tspan x="0" dy="15" xml:space="preserve">                 .. -++++++++*++=+=+++*******+**-==</tspan>
+      <tspan x="0" dy="15" xml:space="preserve">                     =++++++==========+******+*-</tspan>
+      <tspan x="0" dy="15" xml:space="preserve">                     :+++++++++++****+++++*****.</tspan>
+      <tspan x="0" dy="15" xml:space="preserve">                     :+++++++++==+++==+++******.</tspan>
+    </text>
+  </g>
+
+  <!-- flicker overlay for a "live terminal" feel -->
+  <g transform="translate(40,66)">
+    <rect x="-10" y="-10" width="403.0" height="420" fill="#39d353" opacity="0">
+      <animate attributeName="opacity" values="0;0.05;0;0.03;0" dur="2.4s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <text x="40" y="546" class="ascii" font-size="13" fill="#58a6ff">
+    <tspan>rendering_human.exe</tspan>
+    <tspan fill="#39d353">
+      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.51;1" dur="1s" repeatCount="indefinite"/>
+      █
+    </tspan>
+  </text>
+</svg>
 ```
 
 </p>
